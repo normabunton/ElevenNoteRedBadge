@@ -1,5 +1,3 @@
-C:\Users\te_nj\OneDrive\Desktop\EFA Projects C# Visual Studio\RedBadge\ElevenNote.WebMVCRedBadge\ElevenNote.WebMVCRedBadge\obj\Debug\ElevenNote.WebMVCRedBadge.csprojAssemblyReference.cache
-C:\Users\te_nj\OneDrive\Desktop\EFA Projects C# Visual Studio\RedBadge\ElevenNote.WebMVCRedBadge\ElevenNote.WebMVCRedBadge\obj\Debug\ElevenNote.WebMVCRedBadge.csproj.CoreCompileInputs.cache
 C:\Users\te_nj\OneDrive\Desktop\EFA Projects C# Visual Studio\RedBadge\ElevenNote.WebMVCRedBadge\ElevenNote.WebMVCRedBadge\bin\ElevenNote.WebMVCRedBadge.dll.config
 C:\Users\te_nj\OneDrive\Desktop\EFA Projects C# Visual Studio\RedBadge\ElevenNote.WebMVCRedBadge\ElevenNote.WebMVCRedBadge\bin\ElevenNote.WebMVCRedBadge.dll
 C:\Users\te_nj\OneDrive\Desktop\EFA Projects C# Visual Studio\RedBadge\ElevenNote.WebMVCRedBadge\ElevenNote.WebMVCRedBadge\bin\ElevenNote.WebMVCRedBadge.pdb
@@ -112,6 +110,8 @@ C:\Users\te_nj\OneDrive\Desktop\EFA Projects C# Visual Studio\RedBadge\ElevenNot
 C:\Users\te_nj\OneDrive\Desktop\EFA Projects C# Visual Studio\RedBadge\ElevenNote.WebMVCRedBadge\ElevenNote.WebMVCRedBadge\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
 C:\Users\te_nj\OneDrive\Desktop\EFA Projects C# Visual Studio\RedBadge\ElevenNote.WebMVCRedBadge\ElevenNote.WebMVCRedBadge\bin\Microsoft.Owin.Security.OAuth.xml
 C:\Users\te_nj\OneDrive\Desktop\EFA Projects C# Visual Studio\RedBadge\ElevenNote.WebMVCRedBadge\ElevenNote.WebMVCRedBadge\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\te_nj\OneDrive\Desktop\EFA Projects C# Visual Studio\RedBadge\ElevenNote.WebMVCRedBadge\ElevenNote.WebMVCRedBadge\obj\Debug\ElevenNote.WebMVCRedBadge.csprojAssemblyReference.cache
+C:\Users\te_nj\OneDrive\Desktop\EFA Projects C# Visual Studio\RedBadge\ElevenNote.WebMVCRedBadge\ElevenNote.WebMVCRedBadge\obj\Debug\ElevenNote.WebMVCRedBadge.csproj.CoreCompileInputs.cache
 C:\Users\te_nj\OneDrive\Desktop\EFA Projects C# Visual Studio\RedBadge\ElevenNote.WebMVCRedBadge\ElevenNote.WebMVCRedBadge\obj\Debug\ElevenNote.WebMVCRedBadge.csproj.CopyComplete
 C:\Users\te_nj\OneDrive\Desktop\EFA Projects C# Visual Studio\RedBadge\ElevenNote.WebMVCRedBadge\ElevenNote.WebMVCRedBadge\obj\Debug\ElevenNote.WebMVCRedBadge.dll
 C:\Users\te_nj\OneDrive\Desktop\EFA Projects C# Visual Studio\RedBadge\ElevenNote.WebMVCRedBadge\ElevenNote.WebMVCRedBadge\obj\Debug\ElevenNote.WebMVCRedBadge.pdb

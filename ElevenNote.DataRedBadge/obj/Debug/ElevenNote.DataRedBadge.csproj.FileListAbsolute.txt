@@ -1,4 +1,3 @@
-C:\Users\te_nj\OneDrive\Desktop\EFA Projects C# Visual Studio\RedBadge\ElevenNote.WebMVCRedBadge\ElevenNote.DataRedBadge\obj\Debug\ElevenNote.DataRedBadge.csproj.CoreCompileInputs.cache
 C:\Users\te_nj\OneDrive\Desktop\EFA Projects C# Visual Studio\RedBadge\ElevenNote.WebMVCRedBadge\ElevenNote.DataRedBadge\bin\Debug\ElevenNote.DataRedBadge.dll.config
 C:\Users\te_nj\OneDrive\Desktop\EFA Projects C# Visual Studio\RedBadge\ElevenNote.WebMVCRedBadge\ElevenNote.DataRedBadge\bin\Debug\ElevenNote.DataRedBadge.dll
 C:\Users\te_nj\OneDrive\Desktop\EFA Projects C# Visual Studio\RedBadge\ElevenNote.WebMVCRedBadge\ElevenNote.DataRedBadge\bin\Debug\ElevenNote.DataRedBadge.pdb
@@ -10,6 +9,7 @@ C:\Users\te_nj\OneDrive\Desktop\EFA Projects C# Visual Studio\RedBadge\ElevenNot
 C:\Users\te_nj\OneDrive\Desktop\EFA Projects C# Visual Studio\RedBadge\ElevenNote.WebMVCRedBadge\ElevenNote.DataRedBadge\bin\Debug\EntityFramework.SqlServer.xml
 C:\Users\te_nj\OneDrive\Desktop\EFA Projects C# Visual Studio\RedBadge\ElevenNote.WebMVCRedBadge\ElevenNote.DataRedBadge\bin\Debug\Microsoft.AspNet.Identity.Core.xml
 C:\Users\te_nj\OneDrive\Desktop\EFA Projects C# Visual Studio\RedBadge\ElevenNote.WebMVCRedBadge\ElevenNote.DataRedBadge\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\te_nj\OneDrive\Desktop\EFA Projects C# Visual Studio\RedBadge\ElevenNote.WebMVCRedBadge\ElevenNote.DataRedBadge\obj\Debug\ElevenNote.DataRedBadge.csproj.CoreCompileInputs.cache
 C:\Users\te_nj\OneDrive\Desktop\EFA Projects C# Visual Studio\RedBadge\ElevenNote.WebMVCRedBadge\ElevenNote.DataRedBadge\obj\Debug\ElevenNote.DataRedBadge.csproj.CopyComplete
 C:\Users\te_nj\OneDrive\Desktop\EFA Projects C# Visual Studio\RedBadge\ElevenNote.WebMVCRedBadge\ElevenNote.DataRedBadge\obj\Debug\ElevenNote.DataRedBadge.dll
 C:\Users\te_nj\OneDrive\Desktop\EFA Projects C# Visual Studio\RedBadge\ElevenNote.WebMVCRedBadge\ElevenNote.DataRedBadge\obj\Debug\ElevenNote.DataRedBadge.pdb
