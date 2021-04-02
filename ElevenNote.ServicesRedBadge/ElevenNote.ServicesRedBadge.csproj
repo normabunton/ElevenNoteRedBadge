@@ -54,11 +54,22 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="NoteService.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
     <None Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\ElevenNote.DataRedBadge\ElevenNote.DataRedBadge.csproj">
+      <Project>{4f4b5cd0-2f44-4f96-b633-a4a34aaf8705}</Project>
+      <Name>ElevenNote.DataRedBadge</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\ElevenNote.ModelsRedBadge\ElevenNote.ModelsRedBadge.csproj">
+      <Project>{fe4a626e-1247-4540-828c-0f0e3c568059}</Project>
+      <Name>ElevenNote.ModelsRedBadge</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

@@ -9,7 +9,6 @@ C:\Users\te_nj\OneDrive\Desktop\EFA Projects C# Visual Studio\RedBadge\ElevenNot
 C:\Users\te_nj\OneDrive\Desktop\EFA Projects C# Visual Studio\RedBadge\ElevenNote.WebMVCRedBadge\ElevenNote.ModelsRedBadge\bin\Debug\EntityFramework.SqlServer.xml
 C:\Users\te_nj\OneDrive\Desktop\EFA Projects C# Visual Studio\RedBadge\ElevenNote.WebMVCRedBadge\ElevenNote.ModelsRedBadge\bin\Debug\Microsoft.AspNet.Identity.Core.xml
 C:\Users\te_nj\OneDrive\Desktop\EFA Projects C# Visual Studio\RedBadge\ElevenNote.WebMVCRedBadge\ElevenNote.ModelsRedBadge\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
-C:\Users\te_nj\OneDrive\Desktop\EFA Projects C# Visual Studio\RedBadge\ElevenNote.WebMVCRedBadge\ElevenNote.ModelsRedBadge\obj\Debug\ElevenNote.ModelsRedBadge.csprojAssemblyReference.cache
 C:\Users\te_nj\OneDrive\Desktop\EFA Projects C# Visual Studio\RedBadge\ElevenNote.WebMVCRedBadge\ElevenNote.ModelsRedBadge\obj\Debug\ElevenNote.ModelsRedBadge.csproj.CoreCompileInputs.cache
 C:\Users\te_nj\OneDrive\Desktop\EFA Projects C# Visual Studio\RedBadge\ElevenNote.WebMVCRedBadge\ElevenNote.ModelsRedBadge\obj\Debug\ElevenNote.ModelsRedBadge.csproj.CopyComplete
 C:\Users\te_nj\OneDrive\Desktop\EFA Projects C# Visual Studio\RedBadge\ElevenNote.WebMVCRedBadge\ElevenNote.ModelsRedBadge\obj\Debug\ElevenNote.ModelsRedBadge.dll
